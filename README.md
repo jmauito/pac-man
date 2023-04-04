@@ -1,4 +1,5 @@
 # pac-man
+![Imagen de la interfaz de pac-man](./img/pac-man.png)
 Pacman figure who moves into screen
 ## Description
 A exercise based in the work of Dr. John Williams in MITxPRO MERN course. The pacman figure who moves in screen.
